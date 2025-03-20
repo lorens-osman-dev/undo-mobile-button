@@ -1,7 +1,7 @@
 {
 	"id": "undo-mobile-button",
 	"name": "Undo Mobile Button",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.8.4",
 	"description": "Adds a button to the mobile toolbar to undo the last action.",
 	"author": "Lorens Osman",
